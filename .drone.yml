@@ -1,4 +1,6 @@
 pipeline:
   build:
-    image: plugins/docker
-    dockerfile: ./Dockerfile
+    image: alpine
+    commands:
+      - echo 123
+    # dockerfile: ./Dockerfile
