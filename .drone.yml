@@ -1,6 +1,0 @@
-pipeline:
-  build:
-    image: alpine
-    commands:
-      - echo 123
-    # dockerfile: ./Dockerfile
