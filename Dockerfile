@@ -1,2 +1,2 @@
 FROM alpine
-CMD echo 1233d
+CMD echo 123
